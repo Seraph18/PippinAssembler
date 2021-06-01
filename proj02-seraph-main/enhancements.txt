@@ -1,0 +1,30 @@
+What enhancement(s) have you provided? (Explain to a Pippin GUI user.)
+	- Your answer goes here
+	
+	The area where the user chooses a program to run was very cramped, and if the user has a great number
+	of programs they can be somewhat difficult to tell apart or remember exactly what they do.
+	My enhancement was adding a user editable description screen when selecting the program to run.
+	
+Why are your enhancements important to a Pippin GUI user?
+	- Your answer goes here
+	
+	It is an important enhancement because it allows the user to quickly jot down some quick details and have those details up
+	every single time they need to go back to it. It is also editable at any time and will save even between runs to a text File.
+	
+Which parts of the Pippin GUI were affected by your enhancement and how?
+	- Your answer goes here
+	
+The PippinGUI was slightly altered to accommodate for my entirely new Job Selector panel. Other than that though, 
+the rest of the	project is relatively untouched and every aspect is compartmentalized which is a large plus.
+	
+	
+What are some extensions of this enhancement that you weren't able to get to?
+	- Your answer goes here
+	
+	One extension I didn't have time to do was encrypting the text file where the descriptions are stored,
+	but that isn't strictly necessary.
+	
+	
+	
+	
+	
